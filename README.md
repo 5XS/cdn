@@ -6,7 +6,7 @@
 
 #### Installation CDN
 ```html
-<link href="https://cdn.vabby.fun/fonts/remixicon.css" rel="stylesheet">
+<link href="https://cdn.vabby.fun/ri/fonts/remixicon.css" rel="stylesheet">
 ```
 #### Use
 
@@ -48,7 +48,7 @@ Use `remixicon.symbol.svg` file into your project directory，use icons with the
 
 ```html
 <svg class='remix'>
-  <use xlink:href="https://cdn.vabby.fun/fonts/remixicon.symbol.svg#ri-admin-fill"></use>
+  <use xlink:href="https://cdn.vabby.fun/ri/fonts/remixicon.symbol.svg#ri-admin-fill"></use>
 </svg>
 ```
 ```css
