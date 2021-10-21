@@ -6,7 +6,7 @@
 
 #### Installation CDN
 ```html
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+<link href="https://cdn.vabby.fun/fonts/remixicon.css" rel="stylesheet">
 ```
 #### Use
 
@@ -44,11 +44,11 @@ RemixIcon can be resized by css class integrated by `remixicon.css` . Icons inhe
 
 ### SVG Sprite Usage
 
-Download [`remixicon.symbol.svg`](https://cdn.remixicon.com/releases/v2.5.0/remixicon.symbol.svg) file into your project directory，use icons with the `<use>` element, such as:
+Use `remixicon.symbol.svg` file into your project directory，use icons with the `<use>` element, such as:
 
 ```html
 <svg class='remix'>
-  <use xlink:href="your-path/remixicon.symbol.svg#ri-admin-fill"></use>
+  <use xlink:href="https://cdn.vabby.fun/fonts/remixicon.symbol.svg#ri-admin-fill"></use>
 </svg>
 ```
 ```css
